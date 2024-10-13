@@ -45,8 +45,8 @@ This document outlines the steps to create and manage POST and GET APIs using AW
     "userId": "123"
   }
 }
-
-##APIs
+*********************************************************************************************************************************************************************************************************
+##APIs Via Postman
 ###1.POST
 https://d4wr7x2m1k.execute-api.us-east-1.amazonaws.com/storejsondata
 
