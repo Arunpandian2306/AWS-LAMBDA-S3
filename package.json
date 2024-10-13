@@ -1,0 +1,15 @@
+{
+  "name": "storejsondata-3457a93b-e18d-4667-a23a-34bf7a70a351",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aws-sdk": "^2.1691.0"
+  }
+}
