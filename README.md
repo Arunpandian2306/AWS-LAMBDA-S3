@@ -1,10 +1,10 @@
-First need to create AWS ACCOUNT
-GO S3 Create new s3 bucket
-Then Go to lambda select HTTP
-Then create a new function for POST anf GET
-Go API Gateway CREATE API and paste the function names in Lambda
-Give S3 bucket read and write permission to the apis via API Gateway
-For POST Endpoint in the code upload this file my-post-lambda-s3.zip(contains code and npm packages)
+1.First need to create AWS ACCOUNT
+2.GO S3 Create new s3 bucket
+3.Then Go to lambda select HTTP
+4.Then create a new function for POST anf GET
+5.Go API Gateway CREATE API and paste the function names in Lambda
+6.Give S3 bucket read and write permission to the apis via API Gateway
+7.For POST Endpoint in the code upload this file my-post-lambda-s3.zip(contains code and npm packages)
   And ADD necessary Test Events
   SampleTest EventJson
   {
@@ -12,7 +12,7 @@ For POST Endpoint in the code upload this file my-post-lambda-s3.zip(contains co
   "age": 43
 }
 
-For GET Endpoint in the code upload this file my-get-lambda-s3.zip(contains code and npm packages)
+8.For GET Endpoint in the code upload this file my-get-lambda-s3.zip(contains code and npm packages)
   And ADD necessary Test Events
   SampleTest EventJson
   {
