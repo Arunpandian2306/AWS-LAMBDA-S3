@@ -3,6 +3,12 @@
 ## Overview
 This document outlines the steps to create and manage POST and GET APIs using AWS Lambda and S3 for data storage and retrieval.
 
+## Technologies Used
+- **AWS Lambda**: Serverless compute service for running backend code.
+- **AWS S3**: Object storage service for storing JSON data.
+- **API Gateway**: Manage and expose the APIs created with Lambda.
+- **POST MAN**: To Test the Apis
+
 ## Setup Instructions
 
 ### 1. Create an AWS Account
