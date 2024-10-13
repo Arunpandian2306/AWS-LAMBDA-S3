@@ -35,22 +35,22 @@ This document outlines the steps to create and manage POST and GET APIs using AW
 ### 7. Add Test Events
 #### For POST Endpoint:
 - Add the following sample test event:
-```json
+json
 {
   "name": "viji",
   "age": 43
-}```
+}
 
 #### For GET Endpoint:
 - Add the following sample test event:
-```json
+json
 {
   "httpMethod": "GET",
   "path": "/getjsondata",
   "queryStringParameters": {
     "userId": "123"
   }
-}```
+}
 *********************************************************************************************************************************************************************************************************
 ## APIs Via Postman
 ### 1.POST
