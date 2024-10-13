@@ -46,17 +46,17 @@ json
   }
 }
 *********************************************************************************************************************************************************************************************************
-##APIs Via Postman
-###1.POST
-https://d4wr7x2m1k.execute-api.us-east-1.amazonaws.com/storejsondata
+## APIs Via Postman
+### 1.POST
+- https://d4wr7x2m1k.execute-api.us-east-1.amazonaws.com/storejsondata
 
-Sample Request
+- Sample Request
 {
   "name": "viji",
   "age": 43
 }
 
-Sample Response
+- Sample Response
 
 {
     "e_tag": "\"5c6c4e4de08d9bcd7d61b16bd0bd6077\"",
@@ -64,8 +64,8 @@ Sample Response
 }
 
 
-###2.GET
-https://jfoa464a9l.execute-api.us-east-1.amazonaws.com/getjsondata
-Sample Request
+### 2.GET
+- https://jfoa464a9l.execute-api.us-east-1.amazonaws.com/getjsondata
+- Sample Request
 [{"name":"John","age":30},{"name":"John","age":30},{"name":"arun","age":30},{"name":"saran","age":22},{"name":"vishwa","age":31},{"name":"sanjeev","age":24},{"name":"pandian","age":21},{"name":"pandi","age":22},{"name":"viji","age":43}]
  make format this readme this is not event schedular i just need text format like event schedular
