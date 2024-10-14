@@ -57,17 +57,17 @@ json
 - https://d4wr7x2m1k.execute-api.us-east-1.amazonaws.com/storejsondata
 
 - Sample Request
-{
+```json{
   "name": "viji",
   "age": 43
-}
+}```
 
 - Sample Response
 
-{
+```json{
     "e_tag": "\"5c6c4e4de08d9bcd7d61b16bd0bd6077\"",
     "url": "https://arun.doc.com.s3.amazonaws.com/data-1728833398409.json"
-}
+}```
 
 
 ### 2.GET
@@ -75,4 +75,4 @@ json
   
 - Sample Response
   
-[{"name":"John","age":30},{"name":"John","age":30},{"name":"arun","age":30},{"name":"saran","age":22},{"name":"vishwa","age":31},{"name":"sanjeev","age":24},{"name":"pandian","age":21},{"name":"pandi","age":22},{"name":"viji","age":43}]
+```json[{"name":"John","age":30},{"name":"John","age":30},{"name":"arun","age":30},{"name":"saran","age":22},{"name":"vishwa","age":31},{"name":"sanjeev","age":24},{"name":"pandian","age":21},{"name":"pandi","age":22},{"name":"viji","age":43}]```
