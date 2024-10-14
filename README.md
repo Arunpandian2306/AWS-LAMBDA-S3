@@ -32,7 +32,7 @@ This document outlines the steps to create and manage POST and GET APIs using AW
 - For the **POST** endpoint, upload the `my-post-lambda-s3.zip` file (contains code and npm packages).
 - For the **GET** endpoint, upload the `my-get-lambda-s3.zip` file (contains code and npm packages).
 
-### 7. Add Test Events
+### 7. Add Test Events(AWS LAMBDA)
 #### For POST Endpoint:
 - Add the following sample test event:
 ```json
