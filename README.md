@@ -72,6 +72,8 @@ json
 
 ### 2.GET
 - https://jfoa464a9l.execute-api.us-east-1.amazonaws.com/getjsondata
-- Sample Request
+  
+- Sample Response
+  
 [{"name":"John","age":30},{"name":"John","age":30},{"name":"arun","age":30},{"name":"saran","age":22},{"name":"vishwa","age":31},{"name":"sanjeev","age":24},{"name":"pandian","age":21},{"name":"pandi","age":22},{"name":"viji","age":43}]
  make format this readme this is not event schedular i just need text format like event schedular
